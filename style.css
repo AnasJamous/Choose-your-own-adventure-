@@ -1,0 +1,19 @@
+body {
+    background-color: #000000;
+    color: white;
+    font-size: 26px ;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+input[type=text] {
+    min-width: 18em;
+    padding: 10px;
+}
+.link {
+    color: rgb(192, 168, 127);
+}
+.link:hover {
+    text-decoration: underline;
+    color: rgba(240, 229, 233, 0.5)
+}
